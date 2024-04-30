@@ -1,9 +1,15 @@
-# Projeto-Conômetro
+# Projeto-Cronômetro
 
-Tecnologias:
+<h2>:bookmark_tabs: Sobre</h2>
+<p>Fiz um cronômetro para ajudar nas tarefas diárias</p>
 
-Html, Css e Javascript
+<h2>Tecnologias:</h2>
 
-Site no AR: https://dapper-piroshki-2bf912.netlify.app
+<div style="display: inline_block">
 
-![Captura de ecrã_29-4-2024_175148_](https://github.com/JeffersonAlvesB/Projeto-Conometro/assets/166748180/dc1caf86-ca0d-4946-8b9f-78c0950d6864)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+
+![Captura de ecrã_30-4-2024_16381_dapper-piroshki-2bf912 netlify app](https://github.com/JeffersonAlvesB/Projeto-Conometro/assets/166748180/8d00ae2c-9399-4889-8336-247b99e2ab89)
